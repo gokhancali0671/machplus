@@ -12,7 +12,6 @@
 		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode, e = (p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0), i.toDataURL()); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (p && p.fillText) switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([129777, 127995, 8205, 129778, 127999], [129777, 127995, 8203, 129778, 127999]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji))) }(window, document, window._wpemojiSettings);
 	</script>
 
-
 	<style>
 		img.wp-smiley,
 		img.emoji {
@@ -27,7 +26,6 @@
 			padding: 0 !important;
 		}
 	</style>
-
 
 	<link rel='stylesheet' id='astra-theme-css-css'
 		href='https://raysoar.cn/wp-content/themes/astra/assets/css/minified/main.min.css' media='all' />
@@ -5763,9 +5761,6 @@
 	</svg>
 
 
-	<a class="skip-link screen-reader-text" href="#content" role="link" title="Skip to content">
-		Skip to content</a>
-
 	<div class="hfeed site" id="page">
 		<header
 			class="site-header header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline"
@@ -5823,7 +5818,7 @@
 															class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-slide-down  ast-menu-hover-style-underline  stack-on-mobile ast-mega-menu-enabled">
 															<li id="menu-item-766"
 																class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-738 current_page_item menu-item-766">
-																<a href="index.html" class="menu-link"><span
+																<a href="#" class="menu-link"><span
 																		class="ast-icon icon-arrow"><svg
 																			class="ast-arrow-svg"
 																			xmlns="http://www.w3.org/2000/svg"
@@ -5840,7 +5835,7 @@
 															</li>
 															<li id="menu-item-1109"
 																class="menu-item menu-item-type-post_type_archive menu-item-object-product menu-item-has-children menu-item-1109 astra-megamenu-li full-width-mega">
-																<a href="https://raysoar.cn/products/"
+																<a href="#"
 																	class="menu-link"><span
 																		class="ast-icon icon-arrow"><svg
 																			class="ast-arrow-svg"
@@ -5894,7 +5889,7 @@
 																		class="astra-megamenu sub-menu astra-mega-menu-width-full astra-megamenu-has-divider ast-hidden">
 																		<li id="menu-item-4822"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4822 menu-item-heading">
-																			<a href="https://raysoar.cn/functional-components/"
+																			<a href="#"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -5945,7 +5940,7 @@
 																			<ul class="sub-menu">
 																				<li id="menu-item-1018"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018">
-																					<a href="https://raysoar.cn/laser-cutting-head/"
+																					<a href="#"
 																						class="menu-link"><span
 																							class="ast-icon icon-arrow"><svg
 																								class="ast-arrow-svg"
@@ -5964,7 +5959,7 @@
 																				</li>
 																				<li id="menu-item-1027"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027">
-																					<a href="https://raysoar.cn/auxiliary-gas-control/"
+																					<a href="#"
 																						class="menu-link"><span
 																							class="ast-icon icon-arrow"><svg
 																								class="ast-arrow-svg"
@@ -5986,7 +5981,7 @@
 																		</li>
 																		<li id="menu-item-897"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-897 menu-item-heading">
-																			<a href="https://raysoar.cn/end-user/"
+																			<a href="#"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -6096,63 +6091,7 @@
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span></button>
 																					<ul class='astra-nested-sub-menu sub-menu'">
-			<li id=" menu-item-3830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3830"><a
-																							href="https://raysoar.cn/laserconsumables-precitec/"
-																							class="menu-link"><span
-																								class="ast-icon icon-arrow"><svg
-																									class="ast-arrow-svg"
-																									xmlns="http://www.w3.org/2000/svg"
-																									xmlns:xlink="http://www.w3.org/1999/xlink"
-																									version="1.1"
-																									x="0px" y="0px"
-																									width="26px"
-																									height="16.043px"
-																									viewBox="57 35.171 26 16.043"
-																									enable-background="new 57 35.171 26 16.043"
-																									xml:space="preserve">
-																									<path
-																										d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																								</svg></span><span
-																								class="menu-text">Precitec</span></a>
-																				</li>
-																				<li id="menu-item-6700"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6700">
-																					<a href="https://raysoar.cn/raytools/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Raytools</span></a>
-																				</li>
-																				<li id="menu-item-7422"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7422">
-																					<a href="https://raysoar.cn/laserconsumables-wsx/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">WSX</span></a>
-																				</li>
+																				
 																			</ul>
 																		</li>
 																		<li id="menu-item-4479"
@@ -6230,7 +6169,7 @@
 																		</li>
 																		<li id="menu-item-3419"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3419">
-																			<a href="https://raysoar.cn/lasercuttingmachineconsumables-bystronic/"
+																			<a href="#"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -6248,7 +6187,7 @@
 																		</li>
 																		<li id="menu-item-3513"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3513">
-																			<a href="https://raysoar.cn/lasercuttingmachineconsumables-lvd/"
+																			<a href="#"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -6266,7 +6205,7 @@
 																		</li>
 																		<li id="menu-item-3582"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582">
-																			<a href="https://raysoar.cn/laserconsumables-mazak/"
+																			<a href="#"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -6284,7 +6223,7 @@
 																		</li>
 																		<li id="menu-item-3731"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3731">
-																			<a href="https://raysoar.cn/laserconsumables-tanaka/"
+																			<a href="#"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -6302,7 +6241,7 @@
 																		</li>
 																		<li id="menu-item-3392"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3392">
-																			<a href="https://raysoar.cn/lasercuttingmachineconsumables-lvtrumpf/"
+																			<a href="#"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -6324,7 +6263,7 @@
 														</li>
 														<li id="menu-item-916"
 															class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-916 menu-item-heading">
-															<a href="https://raysoar.cn/laser-machine-equipment/"
+															<a href="#"
 																class="menu-link"><span class="ast-icon icon-arrow"><svg
 																		class="ast-arrow-svg"
 																		xmlns="http://www.w3.org/2000/svg"
@@ -6370,7 +6309,7 @@
 															<ul class="sub-menu">
 																<li id="menu-item-4406"
 																	class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4406">
-																	<a href="https://raysoar.cn/laser-welding-machine-1/"
+																	<a href="#"
 																		class="menu-link"><span
 																			class="ast-icon icon-arrow"><svg
 																				class="ast-arrow-svg"
@@ -6390,7 +6329,7 @@
 														</li>
 														<li id="menu-item-917"
 															class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-917 menu-item-heading">
-															<a href="https://raysoar.cn/maintenance-service/"
+															<a href="#"
 																class="menu-link"><span class="ast-icon icon-arrow"><svg
 																		class="ast-arrow-svg"
 																		xmlns="http://www.w3.org/2000/svg"
@@ -6437,7 +6376,7 @@
 																<li id="menu-item-4107"
 																	class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4107 ast-mm-has-desc">
 																	<a title="Fiber Laser Source Repair"
-																		href="https://raysoar.cn/maintenance-service/"
+																		href="#"
 																		class="menu-link"><span
 																			class="ast-icon icon-arrow"><svg
 																				class="ast-arrow-svg"
@@ -6456,7 +6395,7 @@
 																<li id="menu-item-4108"
 																	class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4108 ast-mm-has-desc">
 																	<a title="Laser Cutting Head Repair"
-																		href="https://raysoar.cn/maintenance-service/"
+																		href="#"
 																		class="menu-link"><span
 																			class="ast-icon icon-arrow"><svg
 																				class="ast-arrow-svg"
@@ -6479,7 +6418,7 @@
 														</li>
 														<li id="menu-item-767"
 															class="menu-item menu-item-type-post_type menu-item-object-page menu-item-767">
-															<a href="about.html" class="menu-link"><span
+															<a href="#" class="menu-link"><span
 																	class="ast-icon icon-arrow"><svg
 																		class="ast-arrow-svg"
 																		xmlns="http://www.w3.org/2000/svg"
@@ -6495,7 +6434,7 @@
 														</li>
 														<li id="menu-item-770"
 															class="menu-item menu-item-type-post_type menu-item-object-page menu-item-770">
-															<a href="contact.html" class="menu-link"><span
+															<a href="#" class="menu-link"><span
 																	class="ast-icon icon-arrow"><svg
 																		class="ast-arrow-svg"
 																		xmlns="http://www.w3.org/2000/svg"
@@ -6593,114 +6532,115 @@
 													href="https://raysoar.cn/about-us/" class="menu-link">About Us</a>
 											</li>
 											<li class="page_item page-item-3246 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-amada/"
+													href="#"
 													class="menu-link">Amada Laser Cutting Machine Equipment Parts</a>
 											</li>
 											<li class="page_item page-item-1022 menu-item"><a
-													href="https://raysoar.cn/auxiliary-gas-control/"
+													href="#"
 													class="menu-link">Auxiliary Gas Control</a></li>
 											<li class="page_item page-item-1028 menu-item"><a
-													href="https://raysoar.cn/blog/" class="menu-link">Blog</a></li>
+													href="#" class="menu-link">Blog</a></li>
 											<li class="page_item page-item-3399 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-bystronic/"
+													href="#"
 													class="menu-link">Bystronic</a></li>
 											<li class="page_item page-item-7280 menu-item"><a
-													href="https://raysoar.cn/ceramic-laser-nozzle-holder/"
+													href="#"
 													class="menu-link">Ceramic laser nozzle holder</a></li>
 											<li class="page_item page-item-1303 menu-item"><a
-													href="https://raysoar.cn/cnc-system/" class="menu-link">CNC
+													href="#"
+													class="menu-link">CNC
 													System</a></li>
 											<li class="page_item page-item-196 menu-item"><a
-													href="https://raysoar.cn/contact-us/" class="menu-link">Contact
+													href="#"
+													class="menu-link">Contact
 													Us</a></li>
 											<li class="page_item page-item-1498 menu-item"><a
-													href="https://raysoar.cn/distributor/"
+													href="#"
 													class="menu-link">Distributor</a></li>
 											<li class="page_item page-item-2637 menu-item"><a
-													href="https://raysoar.cn/download/" class="menu-link">Download</a>
+													href="#" class="menu-link">Download</a>
 											</li>
 											<li class="page_item page-item-891 menu-item"><a
-													href="https://raysoar.cn/end-user/" class="menu-link">End-User</a>
+													href="#" class="menu-link">End-User</a>
 											</li>
 											<li class="page_item page-item-1304 menu-item"><a
-													href="https://raysoar.cn/fiber-laser-source/"
+													href="#"
 													class="menu-link">Fiber Laser Source</a></li>
 											<li class="page_item page-item-8233 menu-item"><a
-													href="https://raysoar.cn/focusing-collimating-lens/"
+													href="#"
 													class="menu-link">Focusing &#038; Collimating Lens</a></li>
 											<li class="page_item page-item-981 menu-item"><a
-													href="https://raysoar.cn/functional-components/"
+													href="#"
 													class="menu-link">Functional Components</a></li>
 											<li class="page_item page-item-7725 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-hans/"
+													href="#"
 													class="menu-link">Han&#8217;s</a></li>
 											<li class="page_item page-item-1302 menu-item"><a
-													href="https://raysoar.cn/height-adjustment-system/"
+													href="#"
 													class="menu-link">Height Adjustment System</a></li>
 											<li
 												class="page_item page-item-738 current-menu-item menu-item current-menu-item">
-												<a href="https://raysoar.cn/" class="menu-link">Home</a>
+												<a href="#" class="menu-link">Home</a>
 											</li>
 											<li class="page_item page-item-1011 menu-item"><a
-													href="https://raysoar.cn/laser-cutting-head/"
+													href="#"
 													class="menu-link">Laser Cutting Head</a></li>
 											<li class="page_item page-item-1328 menu-item"><a
-													href="https://raysoar.cn/laser-dust-collector/"
+													href="#"
 													class="menu-link">Laser Dust Collector</a></li>
 											<li class="page_item page-item-911 menu-item"><a
-													href="https://raysoar.cn/laser-machine-equipment/"
+													href="#"
 													class="menu-link">Laser Machine Equipment</a></li>
 											<li class="page_item page-item-7474 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-lasermech/"
+													href="#"
 													class="menu-link">Laser mech</a></li>
 											<li class="page_item page-item-5046 menu-item"><a
-													href="https://raysoar.cn/laser-nozzle/" class="menu-link">Laser
+													href="#" class="menu-link">Laser
 													Nozzle</a></li>
 											<li class="page_item page-item-5265 menu-item"><a
-													href="https://raysoar.cn/laser-protection-window/"
+													href="#"
 													class="menu-link">laser protection window</a></li>
 											<li class="page_item page-item-1293 menu-item"><a
-													href="https://raysoar.cn/laser-water-chiller/"
+													href="#"
 													class="menu-link">Laser Water Chiller</a></li>
 											<li class="page_item page-item-1069 menu-item"><a
-													href="https://raysoar.cn/laser-welding-machine-1/"
+													href="#"
 													class="menu-link">Laser Welding Machine</a></li>
 											<li class="page_item page-item-3488 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-lvd/"
+													href="#"
 													class="menu-link">LVD</a></li>
 											<li class="page_item page-item-906 menu-item"><a
-													href="https://raysoar.cn/maintenance-service/"
+													href="#"
 													class="menu-link">Maintenance Service</a></li>
 											<li class="page_item page-item-3557 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-mazak/"
+													href="#"
 													class="menu-link">Mazak</a></li>
 											<li class="page_item page-item-852 menu-item"><a
-													href="https://raysoar.cn/oem/" class="menu-link">OEM</a></li>
+													href="#" class="menu-link">OEM</a></li>
 											<li class="page_item page-item-2470 menu-item"><a
-													href="https://raysoar.cn/plasma/" class="menu-link">Plasma</a></li>
+													href="#" class="menu-link">Plasma</a></li>
 											<li class="page_item page-item-3286 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-precitec/"
+													href="#"
 													class="menu-link">Precitec</a></li>
 											<li class="page_item page-item-3 menu-item"><a
-													href="https://raysoar.cn/privacy-policy/" class="menu-link">Privacy
+													href="#" class="menu-link">Privacy
 													Policy</a></li>
 											<li class="page_item page-item-217 menu-item"><a
-													href="https://raysoar.cn/products/" class="menu-link">Products</a>
+													href="#" class="menu-link">Products</a>
 											</li>
 											<li class="page_item page-item-6688 menu-item"><a
-													href="https://raysoar.cn/raytools/" class="menu-link">Raytools</a>
+													href="#" class="menu-link">Raytools</a>
 											</li>
 											<li class="page_item page-item-1284 menu-item"><a
-													href="https://raysoar.cn/regulated-power-supply/"
+													href="#"
 													class="menu-link">Regulated Power Supply</a></li>
 											<li class="page_item page-item-3710 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-tanaka/"
+													href="#"
 													class="menu-link">Tanaka</a></li>
 											<li class="page_item page-item-3365 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-lvtrumpf/"
-													class="menu-link">Trumpf</a></li>
+													href="#" class="menu-link">Trumpf</a></li>
 											<li class="page_item page-item-7413 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-wsx/"
+													href="#"
 													class="menu-link">WSX</a></li>
 										</ul>
 									</div>
@@ -6721,7 +6661,7 @@
 									data-section="title_tagline">
 									<div class="site-branding ast-site-identity"
 										itemtype="https://schema.org/Organization" itemscope="itemscope">
-										<span class="site-logo-img"><a href="https://raysoar.cn/"
+										<span class="site-logo-img"><a href="#"
 												class="custom-logo-link" rel="home" aria-current="page"><img width="160"
 													height="53"
 													src="#"
@@ -6730,7 +6670,7 @@
 													sizes="(max-width: 160px) 100vw, 160px" /></a></span>
 										<div class="ast-site-title-wrap">
 											<span class="site-title" itemprop="name">
-												<a href="https://raysoar.cn/" rel="home" itemprop="url">
+												<a href="#" rel="home" itemprop="url">
 													Raysoar
 												</a>
 											</span>
@@ -6786,117 +6726,117 @@
 										<ul
 											class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile ast-mega-menu-enabled">
 											<li class="page_item page-item-162 menu-item"><a
-													href="/kurumsal" class="menu-link">Kurumsal</a>
+													href="#" class="menu-link">Kurumsal</a>
 											</li>
 											<li class="page_item page-item-3246 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-amada/"
+													href="#"
 													class="menu-link">Amada Laser Cutting Machine Equipment Parts</a>
 											</li>
 											<li class="page_item page-item-1022 menu-item"><a
-													href="https://raysoar.cn/auxiliary-gas-control/"
+													href="#"
 													class="menu-link">Auxiliary Gas Control</a></li>
 											<li class="page_item page-item-1028 menu-item"><a
-													href="https://raysoar.cn/blog/" class="menu-link">Blog</a></li>
+													href="#" class="menu-link">Blog</a></li>
 											<li class="page_item page-item-3399 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-bystronic/"
+													href="#"
 													class="menu-link">Bystronic</a></li>
 											<li class="page_item page-item-7280 menu-item"><a
-													href="https://raysoar.cn/ceramic-laser-nozzle-holder/"
+													href="#"
 													class="menu-link">Ceramic laser nozzle holder</a></li>
 											<li class="page_item page-item-1303 menu-item"><a
-													href="https://raysoar.cn/cnc-system/" class="menu-link">CNC
+													href="#" class="menu-link">CNC
 													System</a></li>
 											<li class="page_item page-item-196 menu-item"><a
-													href="https://raysoar.cn/contact-us/" class="menu-link">Contact
+													href="#" class="menu-link">Contact
 													Us</a></li>
 											<li class="page_item page-item-1498 menu-item"><a
-													href="https://raysoar.cn/distributor/"
+													href="#"
 													class="menu-link">Distributor</a></li>
 											<li class="page_item page-item-2637 menu-item"><a
-													href="https://raysoar.cn/download/" class="menu-link">Download</a>
+													href="#" class="menu-link">Download</a>
 											</li>
 											<li class="page_item page-item-891 menu-item"><a
-													href="https://raysoar.cn/end-user/" class="menu-link">End-User</a>
+													href="#" class="menu-link">End-User</a>
 											</li>
 											<li class="page_item page-item-1304 menu-item"><a
-													href="https://raysoar.cn/fiber-laser-source/"
+													href="#"
 													class="menu-link">Fiber Laser Source</a></li>
 											<li class="page_item page-item-8233 menu-item"><a
-													href="https://raysoar.cn/focusing-collimating-lens/"
+													href="#"
 													class="menu-link">Focusing &#038; Collimating Lens</a></li>
 											<li class="page_item page-item-981 menu-item"><a
-													href="https://raysoar.cn/functional-components/"
+													href="#"
 													class="menu-link">Functional Components</a></li>
 											<li class="page_item page-item-7725 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-hans/"
+													href="#"
 													class="menu-link">Han&#8217;s</a></li>
 											<li class="page_item page-item-1302 menu-item"><a
-													href="https://raysoar.cn/height-adjustment-system/"
+													href="#"
 													class="menu-link">Height Adjustment System</a></li>
 											<li
 												class="page_item page-item-738 current-menu-item menu-item current-menu-item">
-												<a href="https://raysoar.cn/" class="menu-link">Home</a>
+												<a href="#" class="menu-link">Home</a>
 											</li>
 											<li class="page_item page-item-1011 menu-item"><a
-													href="https://raysoar.cn/laser-cutting-head/"
+													href="#"
 													class="menu-link">Laser Cutting Head</a></li>
 											<li class="page_item page-item-1328 menu-item"><a
-													href="https://raysoar.cn/laser-dust-collector/"
+													href="#"
 													class="menu-link">Laser Dust Collector</a></li>
 											<li class="page_item page-item-911 menu-item"><a
-													href="https://raysoar.cn/laser-machine-equipment/"
+													href="#"
 													class="menu-link">Laser Machine Equipment</a></li>
 											<li class="page_item page-item-7474 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-lasermech/"
+													href="#"
 													class="menu-link">Laser mech</a></li>
 											<li class="page_item page-item-5046 menu-item"><a
-													href="https://raysoar.cn/laser-nozzle/" class="menu-link">Laser
+													href="#" class="menu-link">Laser
 													Nozzle</a></li>
 											<li class="page_item page-item-5265 menu-item"><a
-													href="https://raysoar.cn/laser-protection-window/"
+													href="#"
 													class="menu-link">laser protection window</a></li>
 											<li class="page_item page-item-1293 menu-item"><a
-													href="https://raysoar.cn/laser-water-chiller/"
+													href="#"
 													class="menu-link">Laser Water Chiller</a></li>
 											<li class="page_item page-item-1069 menu-item"><a
-													href="https://raysoar.cn/laser-welding-machine-1/"
+													href="#"
 													class="menu-link">Laser Welding Machine</a></li>
 											<li class="page_item page-item-3488 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-lvd/"
+													href="#"
 													class="menu-link">LVD</a></li>
 											<li class="page_item page-item-906 menu-item"><a
-													href="https://raysoar.cn/maintenance-service/"
+													href="#"
 													class="menu-link">Maintenance Service</a></li>
 											<li class="page_item page-item-3557 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-mazak/"
+													href="#"
 													class="menu-link">Mazak</a></li>
 											<li class="page_item page-item-852 menu-item"><a
-													href="https://raysoar.cn/oem/" class="menu-link">OEM</a></li>
+													href="#" class="menu-link">OEM</a></li>
 											<li class="page_item page-item-2470 menu-item"><a
-													href="https://raysoar.cn/plasma/" class="menu-link">Plasma</a></li>
+													href="#" class="menu-link">Plasma</a></li>
 											<li class="page_item page-item-3286 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-precitec/"
+													href="#"
 													class="menu-link">Precitec</a></li>
 											<li class="page_item page-item-3 menu-item"><a
-													href="https://raysoar.cn/privacy-policy/" class="menu-link">Privacy
+													href="#" class="menu-link">Privacy
 													Policy</a></li>
 											<li class="page_item page-item-217 menu-item"><a
-													href="https://raysoar.cn/products/" class="menu-link">Products</a>
+													href="#" class="menu-link">Products</a>
 											</li>
 											<li class="page_item page-item-6688 menu-item"><a
-													href="https://raysoar.cn/raytools/" class="menu-link">Raytools</a>
+													href="#" class="menu-link">Raytools</a>
 											</li>
 											<li class="page_item page-item-1284 menu-item"><a
-													href="https://raysoar.cn/regulated-power-supply/"
+													href="#"
 													class="menu-link">Regulated Power Supply</a></li>
 											<li class="page_item page-item-3710 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-tanaka/"
+													href="#"
 													class="menu-link">Tanaka</a></li>
 											<li class="page_item page-item-3365 menu-item"><a
-													href="https://raysoar.cn/lasercuttingmachineconsumables-lvtrumpf/"
+													href="#"
 													class="menu-link">Trumpf</a></li>
 											<li class="page_item page-item-7413 menu-item"><a
-													href="https://raysoar.cn/laserconsumables-wsx/"
+													href="#"
 													class="menu-link">WSX</a></li>
 										</ul>
 									</div>
