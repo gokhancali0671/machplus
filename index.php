@@ -1,4 +1,4 @@
-<?php wp_header(); ?>
+<?php get_header(); ?>
 <body>
 
 <header>
@@ -10,6 +10,6 @@
     <h2>Hi!</h2>
 </main>
 
-<?php wp_footer(); ?>
+<?php get_footer(); ?>
 </body>
 </html>
