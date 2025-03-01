@@ -14,11 +14,11 @@
 									data-id="f014415" data-element_type="widget"
 									data-widget_type="theme-site-logo.default">
 									<div class="elementor-widget-container">
-										<a href="https://raysoar.cn">
+										<a href="#">
 											<img width="798" height="266"
-												src="https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-160x53.png"
+												src="# "
 												class="attachment-full size-full wp-image-1727" alt=""
-												srcset="https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1.png 798w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-300x100.png 300w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-768x256.png 768w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-600x200.png 600w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-160x53.png 160w"
+												srcset="# 798w, # 300w, # 768w, # 600w, # 160w"
 												sizes="(max-width: 798px) 100vw, 798px" /> </a>
 									</div>
 								</div>
@@ -26,8 +26,8 @@
 									data-id="196aeba5" data-element_type="widget"
 									data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>Room 101, Building 18, 205 Gaoji Rd, sijing Town,shanghai, China</p>
-										<p>Email: info@raysoar.cn</p>
+										<p>Adres</p>
+										<p>Email</p>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-60b941bd elementor-shape-square elementor-grid-0 elementor-widget elementor-widget-social-icons"
@@ -346,7 +346,7 @@
 												<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3d4d16f"
 													href="https://www.facebook.com/profile.php?id=100086315512419"
 													target="_blank">
-													<span class="elementor-screen-only">Facebook-f</span>
+													<span class="elementor-screen-only">Facebook</span>
 													<i class="fab fa-facebook-f"></i> </a>
 											</span>
 											<span class="elementor-grid-item">
@@ -364,22 +364,10 @@
 													<i class="fab fa-youtube"></i> </a>
 											</span>
 											<span class="elementor-grid-item">
-												<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-166d599"
-													href="https://twitter.com/raysoarlaser" target="_blank">
-													<span class="elementor-screen-only">Twitter</span>
-													<i class="fab fa-twitter"></i> </a>
-											</span>
-											<span class="elementor-grid-item">
 												<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-b9433ea"
 													href="https://www.instagram.com/raysoarbusiness/" target="_blank">
 													<span class="elementor-screen-only">Instagram</span>
 													<i class="fab fa-instagram"></i> </a>
-											</span>
-											<span class="elementor-grid-item">
-												<a class="elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-709a463"
-													href="https://www.pinterest.com/raysoarlaser/" target="_blank">
-													<span class="elementor-screen-only">Pinterest</span>
-													<i class="fab fa-pinterest"></i> </a>
 											</span>
 										</div>
 									</div>
@@ -404,42 +392,41 @@
 															href="https://raysoar.cn/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
 														<ul class="elementor-icon-list-items">
 															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/">
+																<a href="#">
 
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
-																	<span class="elementor-icon-list-text">Home</span>
+																	<span class="elementor-icon-list-text">Anasayfa</span>
 																</a>
 															</li>
 															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/products/">
+																<a href="/urunler">
 
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
 																	<span
-																		class="elementor-icon-list-text">Products</span>
+																		class="elementor-icon-list-text">Ürünler</span>
 																</a>
 															</li>
 															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/about-us/">
+																<a href="/kurumsal">
 
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
-																	<span class="elementor-icon-list-text"> About
-																		Us</span>
+																	<span class="elementor-icon-list-text"> Kurumsal</span>
 																</a>
 															</li>
 															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/contact-us/">
+																<a href="/iletisim">   
 
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
 																	<span class="elementor-icon-list-text">
-																		Contact</span>
+																		İletişim</span>
 																</a>
 															</li>
 
@@ -457,54 +444,39 @@
 													<div class="elementor-widget-container">
 														<ul class="elementor-icon-list-items">
 															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/laser-nozzle/">
-
+																<a href="#">
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
-																	<span class="elementor-icon-list-text">Laser
-																		Nozzle</span>
+																	<span class="elementor-icon-list-text">Ürün Kategori 1</span>
 																</a>
 															</li>
 															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/laser-protection-window/">
+																<a href="#">
 
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
-																	<span class="elementor-icon-list-text">Productive
-																		Windows</span>
+																	<span class="elementor-icon-list-text">Ürün Kategori 2</span>
 																</a>
 															</li>
 															<li class="elementor-icon-list-item">
 																<a
-																	href="https://raysoar.cn/ceramic-laser-nozzle-holder/">
+																	href="#">
 
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
-																	<span class="elementor-icon-list-text">Ceramic
-																		Nozzle Holder</span>
+																	    <span class="elementor-icon-list-text">Ürün Kategori 3</span>
 																</a>
 															</li>
 															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/focusing-collimating-lens/">
+																<a href="#">
 
 																	<span class="elementor-icon-list-icon">
 																		<i aria-hidden="true"
 																			class="fas fa-caret-right"></i> </span>
-																	<span class="elementor-icon-list-text">Focusing
-																		Lens</span>
-																</a>
-															</li>
-															<li class="elementor-icon-list-item">
-																<a href="https://raysoar.cn/focusing-collimating-lens/">
-
-																	<span class="elementor-icon-list-icon">
-																		<i aria-hidden="true"
-																			class="fas fa-caret-right"></i> </span>
-																	<span class="elementor-icon-list-text"> Collimating
-																		Lens.</span>
+																	        <span class="elementor-icon-list-text">Ürün Kategori 4</span>
 																</a>
 															</li>
 														</ul>
@@ -865,7 +837,7 @@
 																				class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
 																				<label for="form-field-name"
 																					class="elementor-field-label elementor-screen-only">
-																					Name </label>
+																					İsim Soyisim </label>
 																				<input size="1" type="text"
 																					name="form_fields[name]"
 																					id="form-field-name"
@@ -891,7 +863,7 @@
 																				class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required">
 																				<label for="form-field-message"
 																					class="elementor-field-label elementor-screen-only">
-																					Message </label>
+																					Mesaj </label>
 																				<textarea
 																					class="elementor-field-textual elementor-field  elementor-size-sm"
 																					name="form_fields[message]"
@@ -909,7 +881,7 @@
 																							class=" elementor-button-icon">
 																						</span>
 																						<span
-																							class="elementor-button-text">Send</span>
+																							class="elementor-button-text">Gönder</span>
 																					</span>
 																				</button>
 																			</div>
@@ -935,8 +907,7 @@
 						<div class="elementor-element elementor-element-34f81d3d elementor-widget elementor-widget-heading"
 							data-id="34f81d3d" data-element_type="widget" data-widget_type="heading.default">
 							<div class="elementor-widget-container">
-								<p class="elementor-heading-title elementor-size-default">Copyright © 2010-2025 All
-									Rights Reserved.</p>
+								<p class="elementor-heading-title elementor-size-default">Copyright © 2025 Tüm Hakları Saklıdır.</p>
 							</div>
 						</div>
 					</div>
