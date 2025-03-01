@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="tr-TR">
 <head>
-    <?php wp_head(); ?>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Exlazer</title>
-    <link rel="canonical" href="https://exlazer.com/" />
+<?php wp_head(); ?>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Exlazer</title>
+	<link rel="canonical" href="https://exlazer.com/" />
 
 	<script>
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/raysoar.cn\/wp-includes\/js\/wp-emoji-release.min.js" } };
@@ -5610,31 +5610,14 @@
 		id='iksm-public-script-js'></script>
 	<script src='https://raysoar.cn/wp-content/plugins/iks-menu/assets/js/menu.js'
 		id='iksm-menu-script-js'></script>
-
-	<!-- Google Analytics snippet added by Site Kit -->
-	<script src='https://www.googletagmanager.com/gtag/js?id=UA-259271313-1' id='google_gtagjs-js' async></script>
-	<script id='google_gtagjs-js-after'>
-		window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
-		gtag('set', 'linker', { "domains": ["raysoar.cn"] });
-		gtag("js", new Date());
-		gtag("set", "developer_id.dZTNiMT", true);
-		gtag("config", "UA-259271313-1", { "anonymize_ip": true });
-		gtag("config", "G-W77CC8MTF6");
-	</script>
-
-	<!-- End Google Analytics snippet added by Site Kit -->
 	<link rel="https://api.w.org/" href="https://raysoar.cn/wp-json/" />
 	<link rel="alternate" type="application/json" href="https://raysoar.cn/wp-json/wp/v2/pages/738" />
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://raysoar.cn/xmlrpc.php?rsd" />
 	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://raysoar.cn/wp-includes/wlwmanifest.xml" />
-	<meta name="generator" content="WordPress 6.1.7" />
-	<meta name="generator" content="WooCommerce 7.7.0" />
-	<link rel='shortlink' href='https://raysoar.cn/' />
 	<link rel="alternate" type="application/json+oembed"
 		href="https://raysoar.cn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fraysoar.cn%2F" />
 	<link rel="alternate" type="text/xml+oembed"
 		href="https://raysoar.cn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fraysoar.cn%2F&#038;format=xml" />
-	<meta name="generator" content="Site Kit by Google 1.115.0" />
 	<style type="text/css" id="iksm-dynamic-style"></style> <noscript>
 		<style>
 			.woocommerce-product-gallery {
@@ -5897,7 +5880,7 @@
 																					d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																			</svg></span></span></a><button
 																	class="ast-menu-toggle" aria-expanded="false"><span
-																		class="screen-reader-text"></span><span
+																		class="screen-reader-text">Deneme</span><span
 																		class="ast-icon icon-arrow"><svg
 																			class="ast-arrow-svg"
 																			xmlns="http://www.w3.org/2000/svg"
@@ -5910,137 +5893,11 @@
 																			<path
 																				d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																		</svg></span></button>
-																<div class="astra-full-megamenu-wrapper ast-hidden astra-megamenu-has-divider">
-																	<ul class="astra-megamenu sub-menu astra-mega-menu-width-full astra-megamenu-has-divider ast-hidden">
-																		<li id="menu-item-4822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4822 menu-item-heading">
-																			<a href="https://raysoar.cn/functional-components/"
-																				class="menu-link"><span
-																					class="ast-icon icon-arrow"><svg
-																						class="ast-arrow-svg"
-																						xmlns="http://www.w3.org/2000/svg"
-																						xmlns:xlink="http://www.w3.org/1999/xlink"
-																						version="1.1" x="0px" y="0px"
-																						width="26px" height="16.043px"
-																						viewBox="57 35.171 26 16.043"
-																						enable-background="new 57 35.171 26 16.043"
-																						xml:space="preserve">
-																						<path
-																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																					</svg></span><span
-																					class="menu-text">LAZER SARF MAZLEMELERİ<span role="presentation"
-																						class="dropdown-menu-toggle"></span></span><span
-																					role="application"
-																					class="dropdown-menu-toggle ast-header-navigation-arrow"
-																					tabindex="0" aria-expanded="false"
-																					aria-label="Menu Toggle"><span
-																						class="ast-icon icon-arrow"><svg
-																							class="ast-arrow-svg"
-																							xmlns="http://www.w3.org/2000/svg"
-																							xmlns:xlink="http://www.w3.org/1999/xlink"
-																							version="1.1" x="0px"
-																							y="0px" width="26px"
-																							height="16.043px"
-																							viewBox="57 35.171 26 16.043"
-																							enable-background="new 57 35.171 26 16.043"
-																							xml:space="preserve">
-																							<path
-																								d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																						</svg></span></span></a><button
-																				class="ast-menu-toggle"
-																				aria-expanded="false"><span
-																					class="screen-reader-text"></span><span
-																					class="ast-icon icon-arrow"><svg
-																						class="ast-arrow-svg"
-																						xmlns="http://www.w3.org/2000/svg"
-																						xmlns:xlink="http://www.w3.org/1999/xlink"
-																						version="1.1" x="0px" y="0px"
-																						width="26px" height="16.043px"
-																						viewBox="57 35.171 26 16.043"
-																						enable-background="new 57 35.171 26 16.043"
-																						xml:space="preserve">
-																						<path
-																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																					</svg></span></button>
-																			<ul class="sub-menu">
-																				<li id="menu-item-1018"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018">
-																					<a href="https://raysoar.cn/laser-cutting-head/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Alt Kategori 1</span></a>
-																				</li>
-																				<li id="menu-item-1027"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027">
-																					<a href="https://raysoar.cn/auxiliary-gas-control/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Alt Kategori 2</span></a>
-																				</li>
-																				<li id="menu-item-1300"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1300">
-																					<a href="https://raysoar.cn/laser-water-chiller/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Alt Kategori 3</span></a>
-																				</li>
-																				<li id="menu-item-1320"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1320">
-																					<a href="https://raysoar.cn/cnc-system/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Alt Kategori 4</span></a>
-																				</li>
-																			</ul>
-																		</li>
-																		
+																<div
+																	class="astra-full-megamenu-wrapper ast-hidden astra-megamenu-has-divider">
+
+																	<ul
+																		class="astra-megamenu sub-menu astra-mega-menu-width-full astra-megamenu-has-divider ast-hidden">
 																		<li id="menu-item-4822"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4822 menu-item-heading">
 																			<a href="https://raysoar.cn/functional-components/"
@@ -6057,7 +5914,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">LAZER KESİM VE EKİMANLARI<span role="presentation"
+																					class="menu-text">Ana Kategori 1 <span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6078,7 +5935,7 @@
 																						</svg></span></span></a><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text"></span><span
+																					class="screen-reader-text">Deneme 1</span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -6148,7 +6005,7 @@
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
 																							class="menu-text">Alt Kategori 3</span></a>
-																		</li>
+																				</li>
 																				<li id="menu-item-1320"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1320">
 																					<a href="https://raysoar.cn/cnc-system/"
@@ -6166,13 +6023,74 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Alt Kategori 4</span></a>
+																							class="menu-text">CNC
+																							System</span></a>
+																				</li>
+																				<li id="menu-item-1321"
+																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1321">
+																					<a href="https://raysoar.cn/height-adjustment-system/"
+																						class="menu-link"><span
+																							class="ast-icon icon-arrow"><svg
+																								class="ast-arrow-svg"
+																								xmlns="http://www.w3.org/2000/svg"
+																								xmlns:xlink="http://www.w3.org/1999/xlink"
+																								version="1.1" x="0px"
+																								y="0px" width="26px"
+																								height="16.043px"
+																								viewBox="57 35.171 26 16.043"
+																								enable-background="new 57 35.171 26 16.043"
+																								xml:space="preserve">
+																								<path
+																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																							</svg></span><span
+																							class="menu-text">Height
+																							Adjustment System</span></a>
+																				</li>
+																				<li id="menu-item-1327"
+																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1327">
+																					<a href="https://raysoar.cn/fiber-laser-source/"
+																						class="menu-link"><span
+																							class="ast-icon icon-arrow"><svg
+																								class="ast-arrow-svg"
+																								xmlns="http://www.w3.org/2000/svg"
+																								xmlns:xlink="http://www.w3.org/1999/xlink"
+																								version="1.1" x="0px"
+																								y="0px" width="26px"
+																								height="16.043px"
+																								viewBox="57 35.171 26 16.043"
+																								enable-background="new 57 35.171 26 16.043"
+																								xml:space="preserve">
+																								<path
+																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																							</svg></span><span
+																							class="menu-text">Fiber
+																							Laser Source</span></a>
+																				</li>
+																				<li id="menu-item-1333"
+																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
+																					<a href="https://raysoar.cn/laser-dust-collector/"
+																						class="menu-link"><span
+																							class="ast-icon icon-arrow"><svg
+																								class="ast-arrow-svg"
+																								xmlns="http://www.w3.org/2000/svg"
+																								xmlns:xlink="http://www.w3.org/1999/xlink"
+																								version="1.1" x="0px"
+																								y="0px" width="26px"
+																								height="16.043px"
+																								viewBox="57 35.171 26 16.043"
+																								enable-background="new 57 35.171 26 16.043"
+																								xml:space="preserve">
+																								<path
+																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																							</svg></span><span
+																							class="menu-text">Laser Dust
+																							Collector</span></a>
 																				</li>
 																			</ul>
 																		</li>
-																		<li id="menu-item-4822"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4822 menu-item-heading">
-																			<a href="https://raysoar.cn/functional-components/"
+																		<li id="menu-item-897"
+																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-897 menu-item-heading">
+																			<a href="https://raysoar.cn/end-user/"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
@@ -6186,7 +6104,8 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">LAZER KAYNAK VE EKİPMANLARI<span role="presentation"
+																					class="menu-text">Laser
+																					Consumables<span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6207,7 +6126,8 @@
 																						</svg></span></span></a><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text"></span><span
+																					class="screen-reader-text">Menu
+																					Toggle</span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -6221,10 +6141,10 @@
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span></button>
 																			<ul class="sub-menu">
-																				<li id="menu-item-1018"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018">
-																					<a href="https://raysoar.cn/laser-cutting-head/"
-																						class="menu-link"><span
+																				<li id="menu-item-4478"
+																					class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4478 menu-item-heading">
+																					<span
+																						class="ast-disable-link menu-link"><span
 																							class="ast-icon icon-arrow"><svg
 																								class="ast-arrow-svg"
 																								xmlns="http://www.w3.org/2000/svg"
@@ -6238,11 +6158,70 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Alt Kategori 1</span></a>
+																							class="menu-text">Laser
+																							Cutting Head
+																							Consumables<span
+																								role="presentation"
+																								class="dropdown-menu-toggle"></span></span><span
+																							role="application"
+																							class="dropdown-menu-toggle ast-header-navigation-arrow"
+																							tabindex="0"
+																							aria-expanded="false"
+																							aria-label="Menu Toggle"><span
+																								class="ast-icon icon-arrow"><svg
+																									class="ast-arrow-svg"
+																									xmlns="http://www.w3.org/2000/svg"
+																									xmlns:xlink="http://www.w3.org/1999/xlink"
+																									version="1.1"
+																									x="0px" y="0px"
+																									width="26px"
+																									height="16.043px"
+																									viewBox="57 35.171 26 16.043"
+																									enable-background="new 57 35.171 26 16.043"
+																									xml:space="preserve">
+																									<path
+																										d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																								</svg></span></span></span><button
+																						class="ast-menu-toggle"
+																						aria-expanded="false"><span
+																							class="screen-reader-text">Menu
+																							Toggle</span><span
+																							class="ast-icon icon-arrow"><svg
+																								class="ast-arrow-svg"
+																								xmlns="http://www.w3.org/2000/svg"
+																								xmlns:xlink="http://www.w3.org/1999/xlink"
+																								version="1.1" x="0px"
+																								y="0px" width="26px"
+																								height="16.043px"
+																								viewBox="57 35.171 26 16.043"
+																								enable-background="new 57 35.171 26 16.043"
+																								xml:space="preserve">
+																								<path
+																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																							</svg></span></button>
+																					<ul class='astra-nested-sub-menu sub-menu'">
+			<li id=" menu-item-3830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3830"><a
+																							href="https://raysoar.cn/laserconsumables-precitec/"
+																							class="menu-link"><span
+																								class="ast-icon icon-arrow"><svg
+																									class="ast-arrow-svg"
+																									xmlns="http://www.w3.org/2000/svg"
+																									xmlns:xlink="http://www.w3.org/1999/xlink"
+																									version="1.1"
+																									x="0px" y="0px"
+																									width="26px"
+																									height="16.043px"
+																									viewBox="57 35.171 26 16.043"
+																									enable-background="new 57 35.171 26 16.043"
+																									xml:space="preserve">
+																									<path
+																										d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																								</svg></span><span
+																								class="menu-text">Precitec</span></a>
 																				</li>
-																				<li id="menu-item-1027"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027">
-																					<a href="https://raysoar.cn/auxiliary-gas-control/"
+																				<li id="menu-item-6700"
+																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6700">
+																					<a href="https://raysoar.cn/raytools/"
 																						class="menu-link"><span
 																							class="ast-icon icon-arrow"><svg
 																								class="ast-arrow-svg"
@@ -6257,11 +6236,11 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Alt Kategori 2</span></a>
+																							class="menu-text">Raytools</span></a>
 																				</li>
-																				<li id="menu-item-1300"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1300">
-																					<a href="https://raysoar.cn/laser-water-chiller/"
+																				<li id="menu-item-7422"
+																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7422">
+																					<a href="https://raysoar.cn/laserconsumables-wsx/"
 																						class="menu-link"><span
 																							class="ast-icon icon-arrow"><svg
 																								class="ast-arrow-svg"
@@ -6276,33 +6255,177 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Alt Kategori 3</span></a>
-																				</li>
-																				<li id="menu-item-1320"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1320">
-																					<a href="https://raysoar.cn/cnc-system/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Alt Kategori 4</span></a>
+																							class="menu-text">WSX</span></a>
 																				</li>
 																			</ul>
 																		</li>
-
-LAZER KESİM VE EKİMANLARI
-
-
+																		<li id="menu-item-4479"
+																			class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4479 menu-item-heading">
+																			<span
+																				class="ast-disable-link menu-link"><span
+																					class="ast-icon icon-arrow"><svg
+																						class="ast-arrow-svg"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						version="1.1" x="0px" y="0px"
+																						width="26px" height="16.043px"
+																						viewBox="57 35.171 26 16.043"
+																						enable-background="new 57 35.171 26 16.043"
+																						xml:space="preserve">
+																						<path
+																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																					</svg></span><span
+																					class="menu-text">Laser Cutting
+																					Machine Consumables<span
+																						role="presentation"
+																						class="dropdown-menu-toggle"></span></span><span
+																					role="application"
+																					class="dropdown-menu-toggle ast-header-navigation-arrow"
+																					tabindex="0" aria-expanded="false"
+																					aria-label="Menu Toggle"><span
+																						class="ast-icon icon-arrow"><svg
+																							class="ast-arrow-svg"
+																							xmlns="http://www.w3.org/2000/svg"
+																							xmlns:xlink="http://www.w3.org/1999/xlink"
+																							version="1.1" x="0px"
+																							y="0px" width="26px"
+																							height="16.043px"
+																							viewBox="57 35.171 26 16.043"
+																							enable-background="new 57 35.171 26 16.043"
+																							xml:space="preserve">
+																							<path
+																								d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																						</svg></span></span></span><button
+																				class="ast-menu-toggle"
+																				aria-expanded="false"><span
+																					class="screen-reader-text">Menu
+																					Toggle</span><span
+																					class="ast-icon icon-arrow"><svg
+																						class="ast-arrow-svg"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						version="1.1" x="0px" y="0px"
+																						width="26px" height="16.043px"
+																						viewBox="57 35.171 26 16.043"
+																						enable-background="new 57 35.171 26 16.043"
+																						xml:space="preserve">
+																						<path
+																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																					</svg></span></button>
+																			<ul class='astra-nested-sub-menu sub-menu'">
+			<li id=" menu-item-3258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3258"><a
+																					title="Amada Laser Cutting Machine Equipment Parts"
+																					href="https://raysoar.cn/lasercuttingmachineconsumables-amada/"
+																					class="menu-link"><span
+																						class="ast-icon icon-arrow"><svg
+																							class="ast-arrow-svg"
+																							xmlns="http://www.w3.org/2000/svg"
+																							xmlns:xlink="http://www.w3.org/1999/xlink"
+																							version="1.1" x="0px"
+																							y="0px" width="26px"
+																							height="16.043px"
+																							viewBox="57 35.171 26 16.043"
+																							enable-background="new 57 35.171 26 16.043"
+																							xml:space="preserve">
+																							<path
+																								d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																						</svg></span><span
+																						class="menu-text">Amada</span></a>
+																		</li>
+																		<li id="menu-item-3419"
+																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3419">
+																			<a href="https://raysoar.cn/lasercuttingmachineconsumables-bystronic/"
+																				class="menu-link"><span
+																					class="ast-icon icon-arrow"><svg
+																						class="ast-arrow-svg"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						version="1.1" x="0px" y="0px"
+																						width="26px" height="16.043px"
+																						viewBox="57 35.171 26 16.043"
+																						enable-background="new 57 35.171 26 16.043"
+																						xml:space="preserve">
+																						<path
+																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																					</svg></span><span
+																					class="menu-text">Bystronic</span></a>
+																		</li>
+																		<li id="menu-item-3513"
+																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3513">
+																			<a href="https://raysoar.cn/lasercuttingmachineconsumables-lvd/"
+																				class="menu-link"><span
+																					class="ast-icon icon-arrow"><svg
+																						class="ast-arrow-svg"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						version="1.1" x="0px" y="0px"
+																						width="26px" height="16.043px"
+																						viewBox="57 35.171 26 16.043"
+																						enable-background="new 57 35.171 26 16.043"
+																						xml:space="preserve">
+																						<path
+																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																					</svg></span><span
+																					class="menu-text">LVD</span></a>
+																		</li>
+																		<li id="menu-item-3582"
+																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582">
+																			<a href="https://raysoar.cn/laserconsumables-mazak/"
+																				class="menu-link"><span
+																					class="ast-icon icon-arrow"><svg
+																						class="ast-arrow-svg"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						version="1.1" x="0px" y="0px"
+																						width="26px" height="16.043px"
+																						viewBox="57 35.171 26 16.043"
+																						enable-background="new 57 35.171 26 16.043"
+																						xml:space="preserve">
+																						<path
+																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																					</svg></span><span
+																					class="menu-text">Mazak</span></a>
+																		</li>
+																		<li id="menu-item-3731"
+																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3731">
+																			<a href="https://raysoar.cn/laserconsumables-tanaka/"
+																				class="menu-link"><span
+																					class="ast-icon icon-arrow"><svg
+																						class="ast-arrow-svg"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						version="1.1" x="0px" y="0px"
+																						width="26px" height="16.043px"
+																						viewBox="57 35.171 26 16.043"
+																						enable-background="new 57 35.171 26 16.043"
+																						xml:space="preserve">
+																						<path
+																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																					</svg></span><span
+																					class="menu-text">Tanaka</span></a>
+																		</li>
+																		<li id="menu-item-3392"
+																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3392">
+																			<a href="https://raysoar.cn/lasercuttingmachineconsumables-lvtrumpf/"
+																				class="menu-link"><span
+																					class="ast-icon icon-arrow"><svg
+																						class="ast-arrow-svg"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						version="1.1" x="0px" y="0px"
+																						width="26px" height="16.043px"
+																						viewBox="57 35.171 26 16.043"
+																						enable-background="new 57 35.171 26 16.043"
+																						xml:space="preserve">
+																						<path
+																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																					</svg></span><span
+																					class="menu-text">Trumpf</span></a>
+																		</li>
+																	</ul>
+															</li>
+														</ul>
+														</li>
 														<li id="menu-item-916"
 															class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-916 menu-item-heading">
 															<a href="https://raysoar.cn/laser-machine-equipment/"
@@ -6316,7 +6439,8 @@ LAZER KESİM VE EKİMANLARI
 																		xml:space="preserve">
 																		<path
 																			d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																	</svg></span><span class="menu-text">2.EL MAKİNALAR<span role="presentation"
+																	</svg></span><span class="menu-text">Laser Machine
+																	Equipment<span role="presentation"
 																		class="dropdown-menu-toggle"></span></span><span
 																	role="application"
 																	class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6381,7 +6505,8 @@ LAZER KESİM VE EKİMANLARI
 																		xml:space="preserve">
 																		<path
 																			d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																	</svg></span><span class="menu-text">SERVİS HİZMETLERİ<span role="presentation"
+																	</svg></span><span class="menu-text">Maintenance
+																	Service<span role="presentation"
 																		class="dropdown-menu-toggle"></span></span><span
 																	role="application"
 																	class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6413,7 +6538,44 @@ LAZER KESİM VE EKİMANLARI
 																			d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																	</svg></span></button>
 															<ul class="sub-menu">
-																
+																<li id="menu-item-4107"
+																	class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4107 ast-mm-has-desc">
+																	<a title="Fiber Laser Source Repair"
+																		href="https://raysoar.cn/maintenance-service/"
+																		class="menu-link"><span
+																			class="ast-icon icon-arrow"><svg
+																				class="ast-arrow-svg"
+																				xmlns="http://www.w3.org/2000/svg"
+																				xmlns:xlink="http://www.w3.org/1999/xlink"
+																				version="1.1" x="0px" y="0px"
+																				width="26px" height="16.043px"
+																				viewBox="57 35.171 26 16.043"
+																				enable-background="new 57 35.171 26 16.043"
+																				xml:space="preserve">
+																				<path
+																					d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																			</svg></span><span class="menu-text">Fiber
+																			Laser Source Repair</span></a>
+																</li>
+																<li id="menu-item-4108"
+																	class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4108 ast-mm-has-desc">
+																	<a title="Laser Cutting Head Repair"
+																		href="https://raysoar.cn/maintenance-service/"
+																		class="menu-link"><span
+																			class="ast-icon icon-arrow"><svg
+																				class="ast-arrow-svg"
+																				xmlns="http://www.w3.org/2000/svg"
+																				xmlns:xlink="http://www.w3.org/1999/xlink"
+																				version="1.1" x="0px" y="0px"
+																				width="26px" height="16.043px"
+																				viewBox="57 35.171 26 16.043"
+																				enable-background="new 57 35.171 26 16.043"
+																				xml:space="preserve">
+																				<path
+																					d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+																			</svg></span><span class="menu-text">Laser
+																			Cutting Head Repair</span></a>
+																</li>
 																
 															</ul>
 														</li>
