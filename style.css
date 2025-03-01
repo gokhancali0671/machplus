@@ -1,0 +1,26 @@
+/*
+Theme Name: Mach Plus
+Theme URI: https://machplus.com.tr
+Author: Gokhan Çalı
+Author URI: https://machplus.com.tr
+Description: Bu tema, modern ve şık bir WordPress temasıdır.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: machpluss
+Tags: blog, e-ticaret, responsive, SEO-friendly
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: aqua;
+}   
