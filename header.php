@@ -6724,9 +6724,9 @@
 										<span class="site-logo-img"><a href="https://raysoar.cn/"
 												class="custom-logo-link" rel="home" aria-current="page"><img width="160"
 													height="53"
-													src="https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-160x53.png"
+													src="#"
 													class="custom-logo" alt="Raysoar" decoding="async"
-													srcset="https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-160x53.png 160w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-300x100.png 300w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-768x256.png 768w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1-600x200.png 600w, https://raysoar.cn/wp-content/uploads/2022/12/cropped-cropped-cropped-logo-1.png 798w"
+													srcset="# 160w, # 300w, # 768w, # 600w, # 798w"
 													sizes="(max-width: 160px) 100vw, 160px" /></a></span>
 										<div class="ast-site-title-wrap">
 											<span class="site-title" itemprop="name">
