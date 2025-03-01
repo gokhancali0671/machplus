@@ -5897,8 +5897,7 @@
 																					d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																			</svg></span></span></a><button
 																	class="ast-menu-toggle" aria-expanded="false"><span
-																		class="screen-reader-text">Menu
-																		Toggle</span><span
+																		class="screen-reader-text">Deneme</span><span
 																		class="ast-icon icon-arrow"><svg
 																			class="ast-arrow-svg"
 																			xmlns="http://www.w3.org/2000/svg"
@@ -5932,8 +5931,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Functional
-																					Components<span role="presentation"
+																					class="menu-text">Ana Kategori 1 <span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -5954,8 +5952,7 @@
 																						</svg></span></span></a><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text">Menu
-																					Toggle</span><span
+																					class="screen-reader-text">Deneme 1</span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -5986,8 +5983,7 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Laser
-																							Cutting Head</span></a>
+																							class="menu-text">Alt Kategori 1</span></a>
 																				</li>
 																				<li id="menu-item-1027"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027">
@@ -6006,8 +6002,7 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Auxiliary
-																							Gas Control</span></a>
+																							class="menu-text">Alt Kategori 2</span></a>
 																				</li>
 																				<li id="menu-item-1300"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1300">
@@ -6026,8 +6021,7 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Laser
-																							Water Chiller</span></a>
+																							class="menu-text">Alt Kategori 3</span></a>
 																				</li>
 																				<li id="menu-item-1320"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1320">
@@ -6046,73 +6040,11 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">CNC
-																							System</span></a>
-																				</li>
-																				<li id="menu-item-1321"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1321">
-																					<a href="https://raysoar.cn/height-adjustment-system/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Height
-																							Adjustment System</span></a>
-																				</li>
-																				<li id="menu-item-1327"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1327">
-																					<a href="https://raysoar.cn/fiber-laser-source/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Fiber
-																							Laser Source</span></a>
-																				</li>
-																				<li id="menu-item-1333"
-																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
-																					<a href="https://raysoar.cn/laser-dust-collector/"
-																						class="menu-link"><span
-																							class="ast-icon icon-arrow"><svg
-																								class="ast-arrow-svg"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								version="1.1" x="0px"
-																								y="0px" width="26px"
-																								height="16.043px"
-																								viewBox="57 35.171 26 16.043"
-																								enable-background="new 57 35.171 26 16.043"
-																								xml:space="preserve">
-																								<path
-																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																							</svg></span><span
-																							class="menu-text">Laser Dust
-																							Collector</span></a>
+																							class="menu-text">Alt Kategori 4</span></a>
 																				</li>
 																			</ul>
 																		</li>
-																		<li id="menu-item-897"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-897 menu-item-heading">
+																		<li id="menu-item-897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-897 menu-item-heading">
 																			<a href="https://raysoar.cn/end-user/"
 																				class="menu-link"><span
 																					class="ast-icon icon-arrow"><svg
@@ -6127,8 +6059,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Laser
-																					Consumables<span role="presentation"
+																					class="menu-text">Ana Kategori 2 <span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6149,8 +6080,7 @@
 																						</svg></span></span></a><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text">Menu
-																					Toggle</span><span
+																					class="screen-reader-text">Deneme 2</span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -6181,9 +6111,7 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Laser
-																							Cutting Head
-																							Consumables<span
+																							class="menu-text">Alt Kategori 1 <span
 																								role="presentation"
 																								class="dropdown-menu-toggle"></span></span><span
 																							role="application"
@@ -6207,8 +6135,7 @@
 																								</svg></span></span></span><button
 																						class="ast-menu-toggle"
 																						aria-expanded="false"><span
-																							class="screen-reader-text">Menu
-																							Toggle</span><span
+																							class="screen-reader-text">Deneme 3</span><span
 																							class="ast-icon icon-arrow"><svg
 																								class="ast-arrow-svg"
 																								xmlns="http://www.w3.org/2000/svg"
@@ -6240,7 +6167,7 @@
 																									<path
 																										d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																								</svg></span><span
-																								class="menu-text">Precitec</span></a>
+																								class="menu-text">Alt Kategori 2</span></a>
 																				</li>
 																				<li id="menu-item-6700"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6700">
@@ -6259,7 +6186,7 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">Raytools</span></a>
+																							class="menu-text">Alt Kategori 3</span></a>
 																				</li>
 																				<li id="menu-item-7422"
 																					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7422">
@@ -6278,7 +6205,7 @@
 																								<path
 																									d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																							</svg></span><span
-																							class="menu-text">WSX</span></a>
+																							class="menu-text">Alt Kategori 4</span></a>
 																				</li>
 																			</ul>
 																		</li>
@@ -6298,8 +6225,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Laser Cutting
-																					Machine Consumables<span
+																						class="menu-text">Ana Kategori 3 <span
 																						role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
@@ -6321,8 +6247,7 @@
 																						</svg></span></span></span><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text">Menu
-																					Toggle</span><span
+																					class="screen-reader-text">Deneme 4</span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -6353,7 +6278,7 @@
 																							<path
 																								d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																						</svg></span><span
-																						class="menu-text">Amada</span></a>
+																						class="menu-text">Alt Kategori 1</span></a>
 																		</li>
 																		<li id="menu-item-3419"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3419">
@@ -6371,7 +6296,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Bystronic</span></a>
+																					class="menu-text">Alt Kategori 2</span></a>
 																		</li>
 																		<li id="menu-item-3513"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3513">
@@ -6389,7 +6314,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">LVD</span></a>
+																					class="menu-text">Alt Kategori 3</span></a>
 																		</li>
 																		<li id="menu-item-3582"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582">
@@ -6407,7 +6332,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Mazak</span></a>
+																					class="menu-text">Alt Kategori 4</span></a>
 																		</li>
 																		<li id="menu-item-3731"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3731">
@@ -6425,7 +6350,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Tanaka</span></a>
+																					class="menu-text">Alt Kategori 5</span></a>
 																		</li>
 																		<li id="menu-item-3392"
 																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3392">
@@ -6443,7 +6368,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Trumpf</span></a>
+																					class="menu-text">Alt Kategori 6</span></a>
 																		</li>
 																	</ul>
 															</li>
@@ -6599,44 +6524,7 @@
 																			</svg></span><span class="menu-text">Laser
 																			Cutting Head Repair</span></a>
 																</li>
-																<li id="menu-item-4109"
-																	class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4109 ast-mm-has-desc">
-																	<a title="Fiber Optic Lens Replacement"
-																		href="https://raysoar.cn/maintenance-service/"
-																		class="menu-link"><span
-																			class="ast-icon icon-arrow"><svg
-																				class="ast-arrow-svg"
-																				xmlns="http://www.w3.org/2000/svg"
-																				xmlns:xlink="http://www.w3.org/1999/xlink"
-																				version="1.1" x="0px" y="0px"
-																				width="26px" height="16.043px"
-																				viewBox="57 35.171 26 16.043"
-																				enable-background="new 57 35.171 26 16.043"
-																				xml:space="preserve">
-																				<path
-																					d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																			</svg></span><span class="menu-text">Fiber
-																			Optic Lens Replacement</span></a>
-																</li>
-																<li id="menu-item-4110"
-																	class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4110 ast-mm-has-desc">
-																	<a title="Air Compressor Repair"
-																		href="https://raysoar.cn/maintenance-service/"
-																		class="menu-link"><span
-																			class="ast-icon icon-arrow"><svg
-																				class="ast-arrow-svg"
-																				xmlns="http://www.w3.org/2000/svg"
-																				xmlns:xlink="http://www.w3.org/1999/xlink"
-																				version="1.1" x="0px" y="0px"
-																				width="26px" height="16.043px"
-																				viewBox="57 35.171 26 16.043"
-																				enable-background="new 57 35.171 26 16.043"
-																				xml:space="preserve">
-																				<path
-																					d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																			</svg></span><span class="menu-text">Air
-																			Compressor Repair</span></a>
-																</li>
+																
 															</ul>
 														</li>
 														</ul>
@@ -6741,7 +6629,8 @@
 					</div>
 				</div>
 				<div class="ast-desktop-header-content content-align-flex-start ">
-					<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item"
+					<!-- Mobile Menu -->
+				<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item"
 						data-section="section-header-mobile-menu">
 						<div class="ast-main-header-bar-alignment">
 							<div class="main-header-bar-navigation">
@@ -6949,7 +6838,7 @@
 										<ul
 											class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile ast-mega-menu-enabled">
 											<li class="page_item page-item-162 menu-item"><a
-													href="https://raysoar.cn/about-us/" class="menu-link">About Us</a>
+													href="/kurumsal" class="menu-link">Kurumsal</a>
 											</li>
 											<li class="page_item page-item-3246 menu-item"><a
 													href="https://raysoar.cn/lasercuttingmachineconsumables-amada/"
