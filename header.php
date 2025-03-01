@@ -5931,7 +5931,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Ana Kategori 1 <span role="presentation"
+																					class="menu-text">LAZER SARF MAZLEMELERİ<span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -5952,7 +5952,7 @@
 																						</svg></span></span></a><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text">Deneme 1</span><span
+																					class="screen-reader-text"></span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -6061,7 +6061,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">LAZER SARF MAZLEMELERİ <span role="presentation"
+																					class="menu-text">LAZER KESİM VE EKİMANLARI<span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6190,7 +6190,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Ana Kategori 1 <span role="presentation"
+																					class="menu-text">LAZER KAYNAK VE EKİPMANLARI<span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6211,7 +6211,7 @@
 																						</svg></span></span></a><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text">Deneme 1</span><span
+																					class="screen-reader-text"></span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -6318,7 +6318,7 @@
 																						<path
 																							d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
 																					</svg></span><span
-																					class="menu-text">Ana Kategori 2 <span role="presentation"
+																					class="menu-text">MARKALAMA VE CO2 EKİPMANLARI<span role="presentation"
 																						class="dropdown-menu-toggle"></span></span><span
 																					role="application"
 																					class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6339,7 +6339,7 @@
 																						</svg></span></span></a><button
 																				class="ast-menu-toggle"
 																				aria-expanded="false"><span
-																					class="screen-reader-text">Deneme 2</span><span
+																					class="screen-reader-text"></span><span
 																					class="ast-icon icon-arrow"><svg
 																						class="ast-arrow-svg"
 																						xmlns="http://www.w3.org/2000/svg"
@@ -6394,7 +6394,7 @@
 																								</svg></span></span></span><button
 																						class="ast-menu-toggle"
 																						aria-expanded="false"><span
-																							class="screen-reader-text">Deneme 3</span><span
+																							class="screen-reader-text"></span><span
 																							class="ast-icon icon-arrow"><svg
 																								class="ast-arrow-svg"
 																								xmlns="http://www.w3.org/2000/svg"
@@ -6484,7 +6484,7 @@
 																		xml:space="preserve">
 																		<path
 																			d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																	</svg></span><span class="menu-text">LAZER KESİM VE EKİMANLARI<span role="presentation"
+																	</svg></span><span class="menu-text">2.EL MAKİNALAR<span role="presentation"
 																		class="dropdown-menu-toggle"></span></span><span
 																	role="application"
 																	class="dropdown-menu-toggle ast-header-navigation-arrow"
@@ -6549,7 +6549,7 @@
 																		xml:space="preserve">
 																		<path
 																			d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-																	</svg></span><span class="menu-text">LAZER KAYNAK VE EKİPMANLARI<span role="presentation"
+																	</svg></span><span class="menu-text">SERVİS HİZMETLERİ<span role="presentation"
 																		class="dropdown-menu-toggle"></span></span><span
 																	role="application"
 																	class="dropdown-menu-toggle ast-header-navigation-arrow"
