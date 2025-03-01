@@ -344,28 +344,28 @@
 										<div class="elementor-social-icons-wrapper elementor-grid">
 											<span class="elementor-grid-item">
 												<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3d4d16f"
-													href="https://www.facebook.com/profile.php?id=100086315512419"
+													href="#"
 													target="_blank">
 													<span class="elementor-screen-only">Facebook</span>
 													<i class="fab fa-facebook-f"></i> </a>
 											</span>
 											<span class="elementor-grid-item">
 												<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-12db40b"
-													href="https://www.linkedin.com/in/evan-lee-573042253/"
+													href="#"
 													target="_blank">
 													<span class="elementor-screen-only">Linkedin</span>
 													<i class="fab fa-linkedin"></i> </a>
 											</span>
 											<span class="elementor-grid-item">
 												<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-0992f96"
-													href="https://www.youtube.com/channel/UCUQezlcWzR9cg_eOUikcb0g"
+													href="#"
 													target="_blank">
 													<span class="elementor-screen-only">Youtube</span>
 													<i class="fab fa-youtube"></i> </a>
 											</span>
 											<span class="elementor-grid-item">
 												<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-b9433ea"
-													href="https://www.instagram.com/raysoarbusiness/" target="_blank">
+													href="#" target="_blank">
 													<span class="elementor-screen-only">Instagram</span>
 													<i class="fab fa-instagram"></i> </a>
 											</span>
@@ -381,6 +381,7 @@
 									class="elementor-section elementor-inner-section elementor-element elementor-element-14a53708 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
 									data-id="14a53708" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-no">
+                                        <!-- Hızlı Erişim -->
 										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4c7ab3fc"
 											data-id="4c7ab3fc" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
@@ -435,6 +436,7 @@
 												</div>
 											</div>
 										</div>
+                                        <!-- Ürün Kategorileri -->
 										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3d211e1d"
 											data-id="3d211e1d" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
@@ -1517,9 +1519,6 @@
 	<script
 		src='https://raysoar.cn/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'
 		id='jquery-blockui-js'></script>
-	<script
-		src='https://raysoar.cn/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'
-		id='js-cookie-js'></script>
 	<script id='woocommerce-js-extra'>
 		var woocommerce_params = { "ajax_url": "\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%&elementor_page_id=738" };
 	</script>
