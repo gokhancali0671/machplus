@@ -5783,7 +5783,7 @@
 											<span class="site-logo-img"><a href="index.html" class="custom-logo-link"
 													rel="home" aria-current="page"><img width="160" height="53"
 														src="#"
-														class="custom-logo" alt="Raysoar" decoding="async"
+														class="custom-logo" alt="" decoding="async"
 														srcset="# 160w, # 300w, # 768w, # 600w, # 798w"
 														sizes="(max-width: 160px) 100vw, 160px" /></a></span>
 											<div class="ast-site-title-wrap">
@@ -6466,7 +6466,7 @@
 										data-section="section-header-search">
 										<div class="ast-search-menu-icon slide-search">
 											<form role="search" method="get" class="search-form"
-												action="https://raysoar.cn/">
+												action="#">
 												<label>
 													<span class="screen-reader-text">Search for:</span>
 													<input type="search" class="search-field" placeholder="Search..."
@@ -6529,7 +6529,7 @@
 										<ul
 											class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile ast-mega-menu-enabled">
 											<li class="page_item page-item-162 menu-item"><a
-													href="https://raysoar.cn/about-us/" class="menu-link">About Us</a>
+													href="#" class="menu-link">About Us</a>
 											</li>
 											<li class="page_item page-item-3246 menu-item"><a
 													href="#"
@@ -6665,13 +6665,13 @@
 												class="custom-logo-link" rel="home" aria-current="page"><img width="160"
 													height="53"
 													src="#"
-													class="custom-logo" alt="Raysoar" decoding="async"
+													class="custom-logo" alt="" decoding="async"
 													srcset="# 160w, # 300w, # 768w, # 600w, # 798w"
 													sizes="(max-width: 160px) 100vw, 160px" /></a></span>
 										<div class="ast-site-title-wrap">
 											<span class="site-title" itemprop="name">
 												<a href="#" rel="home" itemprop="url">
-													Raysoar
+													Mach Plus
 												</a>
 											</span>
 
